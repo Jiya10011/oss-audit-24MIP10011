@@ -1,0 +1,25 @@
+==============================================
+       MY OPEN SOURCE MANIFESTO              
+==============================================
+
+  Author : codespace
+  Date   : 20 March 2026
+
+----------------------------------------------
+  Every day, I rely on git -- a tool that someone
+  built, shared, and gave to the world without asking
+  for anything in return. That act of sharing is what
+  open source means to me: it means choice.
+
+  I believe that knowledge grows when it is shared,
+  not hoarded. The best software in the world was
+  built openly, collaboratively, and freely.
+
+  One day, I want to build a study planner and release it
+  as open source -- so that someone I will never meet
+  can use it, improve it, and pass it forward.
+
+  That is the open source way.
+
+  -- codespace, 20 March 2026
+==============================================

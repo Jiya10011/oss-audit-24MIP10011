@@ -1,0 +1,10 @@
+2025-03-20 10:01:23 INFO System started successfully
+2025-03-20 10:02:11 ERROR Failed to connect to database
+2025-03-20 10:03:45 INFO User login successful
+2025-03-20 10:04:12 WARNING Disk usage above 80%
+2025-03-20 10:05:33 ERROR Timeout while fetching config
+2025-03-20 10:06:01 INFO Backup completed
+2025-03-20 10:07:44 ERROR Permission denied on /etc/shadow
+2025-03-20 10:08:22 INFO Service restarted
+2025-03-20 10:09:10 WARNING Memory usage high
+2025-03-20 10:10:55 ERROR Network interface unreachable
